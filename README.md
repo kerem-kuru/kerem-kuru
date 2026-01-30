@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Selam, Ben Kerem Kuru!
 
-<!--
-**kerem-kuru/kerem-kuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Yazılım Mühendisliği Öğrencisi | Kocaeli Üniversitesi
 
-Here are some ideas to get you started:
+Yazılım dünyasında "amelelik" yapmak yerine, sistemleri otomatize ederek akıllı çözümler üretmeye odaklanan bir geliştiriciyim. Şu an **Full-Stack Web Development** ve **Workflow Automation** (n8n) üzerine kendimi geliştiriyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Nelerle Uğraşıyorum?
+
+* 🛠 **Modern Stack:** React.js ve Django (REST Framework) ile performanslı web uygulamaları geliştiriyorum.
+* 🤖 **Automation & AI:** Geliştirme süreçlerimde **n8n** ve **Vibe Coding** tekniklerini kullanarak verimliliği maksimize ediyorum. 
+* 🏫 **Hedef:** 42 Kocaeli ekosistemine dahil olmak ve sektöre güçlü bir giriş yapmak.
+* 🌍 **Global Vizyon:** Erasmus programı ile yurt dışında mühendislik deneyimi kazanmak için hazırlanıyorum.
+
+---
+
+## 🛠️ Yeteneklerim & Araçlar
+
+| Alan | Araçlar |
+| :--- | :--- |
+| **Frontend** | React, JavaScript, Tailwind CSS |
+| **Backend** | Django, Python, PostgreSQL |
+| **Automation** | n8n, Webhooks, AI Integration |
+| **Metodoloji** | Vibe Coding, Agile, Git |
+
+---
+
+## 📈 GitHub İstatistiklerim
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=kerem-kuru&show_icons=true&theme=tokyonight" alt="İstatistikler" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerem-kuru&layout=compact&theme=tokyonight" alt="Diller" />
+</p>
+
+---
+
+## 📫 Bana Ulaşın
+
+* 💼 **LinkedIn:** www.linkedin.com/in/kerem-kuru-b3a093349
+* 📧 **E-posta:** keremkuru2007@gmail.com
