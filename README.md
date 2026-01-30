@@ -24,12 +24,6 @@ Yazılım dünyasında "amelelik" yapmak yerine, sistemleri otomatize ederek ak�
 
 ---
 
-## 📈 GitHub İstatistiklerim
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kerem-kuru&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
 ## 📫 Bana Ulaşın
 
 * 💼 **LinkedIn:** [linkedin.com/in/kerem-kuru-b3a093349](https://www.linkedin.com/in/kerem-kuru-b3a093349)
