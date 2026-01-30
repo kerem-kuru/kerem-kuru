@@ -29,10 +29,12 @@ Yazılım dünyasında "amelelik" yapmak yerine, sistemleri otomatize ederek ak�
 ## 📈 GitHub İstatistiklerim
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kerem-kuru&show_icons=true&theme=tokyonight" alt="Kerem Kuru Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerem-kuru&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kerem-kuru&show_icons=true&theme=tokyonight" alt="Stats" />
 </p>
----
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kerem-kuru&theme=tokyonight" alt="Streak" />
+</p> 
 
 ## 📫 Bana Ulaşın
 
