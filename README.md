@@ -2,7 +2,7 @@
 
 ### 🎓 Yazılım Mühendisliği Öğrencisi | Kocaeli Üniversitesi
 
-Yazılım dünyasında "amelelik" yapmak yerine, sistemleri otomatize ederek akıllı çözümler üretmeye odaklanan bir geliştiriciyim. Şu an **Full-Stack Web Development** ve **Workflow Automation** (n8n) üzerine kendimi geliştiriyorum.
+Yazılım geliştirme süreçlerinde **operasyonel verimliliği** esas alarak sistemleri otomatize ederek akıllı çözümler üretmeye odaklanan bir geliştiriciyim. Şu an **Full-Stack Web Development** ve **Workflow Automation** (n8n) üzerine kendimi geliştiriyorum.
 
 ---
 
